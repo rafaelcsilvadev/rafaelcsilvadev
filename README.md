@@ -1,16 +1,28 @@
-### Hi there 👋
-
-<!--
-**rafaelcsilvadev/rafaelcsilvadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>
+    Oi, sou Rafael Couto 👋
+</h2>
+<h1></h1>
+<span>
+    Oi, sou Rafael Couto, estou cursando Sistemas de Informação na UniFOA e sou apaixonado por front-end. Quando estou escrevendo os meus códigos, sempre busco deixa-los fáceis de dar manutenção e de escalar. 
+<span>
+<span>
+    Seja bem vindo ao meu portfólio.
+</span>
+<h1></h1>
+<h2>
+    Minhas Stacks
+</h2>
+<ul>
+ <li>
+    JavaScript
+ </li>
+ <li>
+    React
+ </li>
+ <li>
+    Next
+ </li>
+ <li>
+    Sass
+ </li>
+</ul>
