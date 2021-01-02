@@ -12,16 +12,19 @@
     Minhas Stacks
 </h2>
 <ul>
- <li>
-    JavaScript
- </li>
- <li>
-    React
- </li>
- <li>
-    Next
- </li>
- <li>
-    Sass
- </li>
+    <li>
+        <a href="reactjs.org/">
+            React.js
+        </a>
+    </li>
+    <li>
+        <a href="nextjs.org">
+            Next.js
+        </a>
+    </li>
+    <li>
+        <a href="sass-lang.com">
+            Sass
+        </a>
+    </li>
 </ul>
