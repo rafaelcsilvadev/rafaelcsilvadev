@@ -14,12 +14,12 @@
 <ul>
     <li>
         <a href="reactjs.org/">
-            React.js
+            React
         </a>
     </li>
     <li>
         <a href="nextjs.org">
-            Next.js
+            Next
         </a>
     </li>
 </ul>
