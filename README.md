@@ -22,9 +22,4 @@
             Next.js
         </a>
     </li>
-    <li>
-        <a href="sass-lang.com">
-            Sass
-        </a>
-    </li>
 </ul>
