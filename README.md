@@ -19,7 +19,7 @@
     </li>
     <li>
         <a href="nextjs.org">
-            Next
+            Next.js
         </a>
     </li>
 </ul>
