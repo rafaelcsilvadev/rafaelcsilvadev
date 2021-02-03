@@ -11,15 +11,27 @@
 <h2>
     Minhas Stacks
 </h2>
-<ul>
-    <li>
-        <a href="reactjs.org/">
-            React
-        </a>
-    </li>
-    <li>
-        <a href="nextjs.org">
-            Next.js
-        </a>
-    </li>
-</ul>
+<div>
+    <img src="./github/icons/html5.png" alt="HTML5" width="32px">
+    <img src="./github/icons/css3.png" alt="CSS3" width="32px">
+    <img src="./github/icons/sass.png" alt="Sass" width="32px">
+    <img src="./github/icons/javascript.png" alt="Javascript" width="32px">
+    <img src="./github/icons/next-dot-js.svg" alt="Next.js" width="32px">
+</div>
+
+<h2>
+    Contatos
+</h2>
+<div>
+    <a href="https://www.linkedin.com/in/rcs-frontend/">
+        <img src="./github/icons/linkedin.png" alt="linkedIn" width="32px">
+    </a>
+    <a href="mailto: rafaelcsilva016@outlook.com">
+        <img src="./github/icons/outlook.png" alt="email" width="32px">
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5524999644346">
+        <img src="./github/icons/whatsapp.png" alt="" width="32px">
+    </a>
+</div>
+
+
