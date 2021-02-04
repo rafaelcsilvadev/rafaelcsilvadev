@@ -16,7 +16,7 @@
     <img src="./github/icons/css3.png" alt="CSS3" width="32px">
     <img src="./github/icons/sass.png" alt="Sass" width="32px">
     <img src="./github/icons/javascript.png" alt="Javascript" width="32px">
-    <img src="./github/icons/next-dot-js.svg" alt="Next.js" width="32px">
+    <img src="./github/icons/next.png" alt="Next.js" width="32px">
 </div>
 
 <h2>
