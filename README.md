@@ -16,7 +16,7 @@
     <img src="./github/icons/css3.png" alt="CSS3" width="34px">
     <img src="./github/icons/sass.png" alt="Sass" width="34px">
     <img src="./github/icons/javascript.png" alt="Javascript" width="34px">
-    <img src="./github/icons/typescript.png" alt="TypeScript" width="32px">
+    <img src="./github/icons/typescript.png" alt="TypeScript" width="40px">
     <img src="./github/icons/react.png" alt="React" width="32px">    
     <img src="./github/icons/next.png" alt="Next.js" width="32px">    
     <img src="./github/icons/redux.png" alt="Redux" width="32px">
