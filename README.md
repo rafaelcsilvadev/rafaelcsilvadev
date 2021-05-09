@@ -26,8 +26,9 @@
 <h2>
     Contatos
 </h2>
+
 <div>
-    <a href="https://www.linkedin.com/in/rcs-frontend/">
+    <a href="https://www.linkedin.com/in/rafael-couto-dev/">
         <img src="./github/icons/linkedin.png" alt="linkedIn" width="34px">
     </a>
     <a href="mailto: rafaelcsilva016@outlook.com">
