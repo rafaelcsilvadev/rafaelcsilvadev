@@ -21,6 +21,7 @@
     <img src="./github/icons/react.png" alt="React" width="32px">    
     <img src="./github/icons/next.png" alt="Next.js" width="32px">    
     <img src="./github/icons/redux.png" alt="Redux" width="32px">
+    <img src="./github/icons/electron2.png" alt="Electron" width="32px">
 </div>
 
 <h2>
