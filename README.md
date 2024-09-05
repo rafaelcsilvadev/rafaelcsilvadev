@@ -1,4 +1,4 @@
-<h1>Olá, comunidade! Sou o Rafa.</h1>
+<h1>Olá, comunidade! Sou o Rafa Couto.</h1>
 <span>
 Desenvolvedor mobile com 3 anos de experiência, focado em criar soluções que fazem a diferença. Ao longo da minha jornada, tenho me especializado cada vez mais no uso de Flutter e Dart. Aqui, você encontrará todos os meus projetos, onde apresento minhas habilidades e avanços. Esses projetos serão constantemente atualizados à medida que continuo evoluindo.
 </span>
