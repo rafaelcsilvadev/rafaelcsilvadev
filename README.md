@@ -1,4 +1,8 @@
-<h1>Olá!!! Me chamo Rafael Couto Silva. Seja bem vindo.😁</h1>
+<h1>Olá comunidade!!! Me chamo Rafael Couto Silva.</h1>
+<span>
+Desenvolvedor mobile com 3 anos de experiência, focado em criar soluções que fazem a diferença. Ao longo da minha jornada, tenho me especializado cada vez mais no uso de Flutter e Dart. Aqui, você encontrará todos os meus projetos, onde apresento minhas habilidades e avanços. Esses projetos serão constantemente atualizados à medida que continuo evoluindo.
+</span>
+<h3>Sejam bem vindos.</h3>
 
 <div style="display: inline_block">    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="32px"/>          
