@@ -4,8 +4,11 @@ Desenvolvedor mobile com 3 anos de experiência, focado em criar soluções que 
 </span>
 <h3>Sejam bem vindos.</h3>
 
+<h5>Nesse perfil vocês vera muito:</h5>
+
 <div style="display: inline_block">    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="32px"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="32px"/> 
+  <b>Dart/Flutter</b>         
 </div>
 
 ##
