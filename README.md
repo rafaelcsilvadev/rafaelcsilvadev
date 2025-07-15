@@ -12,9 +12,9 @@
 </p>
 <p align="left">My contacts</p>
 <ul align="left">
-    <li><b>Phone</b>: <a hrf="https://wa.me/5524999644346?text=Hello!%20I%20like%20your%20profile" target="_blank"> +55 (24) 9 9964 - 4346</a></li>
-    <li><b>Email</b>: <a hrf="mailto:rafacsilva016@gmail.com" target="_blank">rafacsilva016@gmail.com</a></li>
-    <li><b>LinkedIn</b>: <a hrf="https://www.linkedin.com/in/rafa-couto/" target="_blank">linkedin.com/in/rafa-couto/</a></li>
+    <li><b>Phone</b>: +55 (24) 9 9964 - 4346</li>
+    <li><b>Email</b>: rafacsilva016@gmail.com</li>
+    <li><b>LinkedIn</b>: linkedin.com/in/rafa-couto/</li>
 </ul>
 <h2 align="left">
     My Skills
