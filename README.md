@@ -20,5 +20,5 @@
     My Skills
 </h2>
 <div align="left">
- <img src="https://skillicons.dev/icons?i=react,nextjs,git,html,css,sass,tailwind,js,ts,figma,firebase,jest,docker," />
+ <img src="https://skillicons.dev/icons?i=react,nextjs,git,html,css,sass,tailwind,js,ts,redux,figma,firebase,jest,docker," />
 </div>
