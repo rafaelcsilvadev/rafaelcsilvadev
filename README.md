@@ -8,5 +8,5 @@
     Você verá as seguintes tecnologias:
 </h6>
 <div align="left">
- <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,flutter,dart,nestjs,react,nextjs,tailwind,bootstrap,sass,html,css,javascript,typescript,jest" />
+ <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,flutter,dart,sass,html,css,javascript,typescript,jest" />
 </div>
